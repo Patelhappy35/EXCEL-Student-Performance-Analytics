@@ -4,22 +4,22 @@
 This project analyzes student performance based on academic scores, attendance, study hours, and demographic factors. The goal is to identify patterns that affect student success.
 
 # 🎯 Objective
-To analyze student performance using Excel tools
-To study relationship between CGPA, attendance, and study hours
-To visualize data using charts and pivot tables
-To build an interactive dashboard
+-> To analyze student performance using Excel tools
+-> To study relationship between CGPA, attendance, and study hours
+-> To visualize data using charts and pivot tables
+-> To build an interactive dashboard
 
 # 📁 Dataset Information
 Dataset includes:
-Student ID
-Gender
-Major
-Living Area
-Scholarship Status
-Study Hours
-Attendance Rate
-Math, Science, History Scores
-CGPA
+-> Student ID
+-> Gender
+-> Major
+-> Living Area
+-> Scholarship Status
+-> Study Hours
+-> Attendance Rate
+-> Math, Science, History Scores
+-> CGPA
 
 # 🧹 Data Cleaning
 Removed duplicates
@@ -28,11 +28,11 @@ Verified data types
 Created new fields like Study Hour Group
 
 # 📊 Pivot Tables Used
-Major vs Average CGPA
-Gender vs Student Study Hour
-Major vs Average Attendance
-Living Area vs Student Count
-Study Hours vs Average CGPA
+-> Major vs Average CGPA
+-> Gender vs Student Study Hour
+-> Major vs Average Attendance
+-> Living Area vs Student Count
+-> Study Hours vs Average CGPA
 
 # 📈 Charts Used
 📌 Line Chart → Study Hours vs CGPA
@@ -48,10 +48,10 @@ Scholarship
 (Used for interactive filtering of dashboard)
 
 # 📌 Key Insights
-Higher study hours lead to better CGPA
-Scholarship students generally perform better
-Attendance has positive impact on performance
-Major-wise performance varies significantly
+-> Higher study hours lead to better CGPA
+-> Scholarship students generally perform better
+-> Attendance has positive impact on performance
+-> Major-wise performance varies significantly
 
 # 🛠️ Tools Used
 Microsoft Excel
