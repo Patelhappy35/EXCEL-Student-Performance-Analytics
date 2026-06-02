@@ -9,7 +9,7 @@ To study relationship between CGPA, attendance, and study hours
 To visualize data using charts and pivot tables
 To build an interactive dashboard
 
-📁 Dataset Information
+# 📁 Dataset Information
 Dataset includes:
 Student ID
 Gender
